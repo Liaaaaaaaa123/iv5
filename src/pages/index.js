@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import AirlineRoutes from "./assignment5_student"; // Make sure the path is correct
+import AirlineRoutes from "./assignment5_xinruoli"; // Make sure the path is correct
 
 export default function Home() {
   return (
